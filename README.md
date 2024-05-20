@@ -1,0 +1,1 @@
+Creating a simple api for anyone to sharpen their hero knowledge! DC/Marvel only for now
